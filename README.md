@@ -61,9 +61,33 @@ Continuously improving QA processes through retrospectives and adjustments based
 Maintaining high standards in a software project is crucial because it ensures the software is reliable, secure, maintainable, and delivers a positive user experience, ultimately leading to customer satisfaction, improved business reputation, and reduced development costs by minimizing bugs, security vulnerabilities, and the need for extensive rework later on; it also facilitates collaboration among developers by providing a consistent framework for coding practices.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining a project scope is crucial for successful software project planning because it clearly outlines the project's boundaries, deliverables, and constraints, allowing for efficient resource allocation, accurate timelines, managed stakeholder expectations, and prevention of scope creep, ultimately ensuring the project stays focused and on track to meet its goals. 
+A work breakdown structure (WBS) is a visual, hierarchical and deliverable-oriented deconstruction of a project. It is a helpful diagram for project managers because it allows them to break down their project scope and visualize all the tasks required to complete their projects.
+A Work Breakdown Structure (WBS) is useful in software project management because it breaks down a complex project into manageable tasks, allowing for better planning, resource allocation, risk identification, progress tracking, and clear communication by providing a detailed overview of all project components and their relationships, making it easier to estimate timelines, costs, and assign responsibilities to team members. 
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+A detailed project schedule in a software project provides several benefits, including: 
+Improved project efficiency.
+Better progress tracking.
+Reduced risk of delays and cost overruns.
+Early identification of potential problems.
+Effective resource allocation.
+Enhanced communication between team members.
+The ability to adjust timelines as needed. 
+Gantt charts help to visualize the dependencies between the tasks. This allows you to understand what is starting, changing, and ending. And how all these might affect other dependencies, the whole project, or the portfolio.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+My cybersecurity solutions software aims to address several core issues to protect organizations, individuals, and data from cyber threats. Here are the primary challenges it targets:
+Threat Prevention & Detection
+Data Protection & Privacy
+Identity & Access Management (IAM)
+Network Security & Perimeter Defense
+The following reasons are why the mentioned issues matter to my target audience:
+CIOs & IT Directors - need to ensure infrastructure security and compliance.
+CISOs & Security Teams - must proactively defend against evolving cyber threats.
+Business Owners & Executives - want to protect brand reputation and minimize financial risks.
+Compliance Officers - need to ensure legal and regulatory adherence.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
