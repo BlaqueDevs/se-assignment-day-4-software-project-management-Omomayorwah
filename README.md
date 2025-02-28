@@ -99,5 +99,7 @@ AI-Powered Threat Detection & Response that uses machine learning to detect anom
 Zero Trust Architecture (ZTA) Integration that ensures never trust, always verify access policies.
 Autonomous Incident Response (SOAR); Automated remediation of security incidents using predefined playbooks.
 Decentralized Security with Blockchain that uses blockchain encryption for tamper-proof data storage.
+Quantum-Resistant Encryption; an advanced post-quantum cryptography to future-proof data security.
 ## 12. What data is available regarding the market size and growth potential for your software?
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
